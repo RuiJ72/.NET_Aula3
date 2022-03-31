@@ -1,0 +1,4 @@
+C:\Users\rlago\Documents\Estudos de C# e .NET\Aula3\obj\Debug\netcoreapp3.1\Aula3.csprojAssemblyReference.cache
+C:\Users\rlago\Documents\Estudos de C# e .NET\Aula3\obj\Debug\netcoreapp3.1\Aula3.AssemblyInfoInputs.cache
+C:\Users\rlago\Documents\Estudos de C# e .NET\Aula3\obj\Debug\netcoreapp3.1\Aula3.AssemblyInfo.cs
+C:\Users\rlago\Documents\Estudos de C# e .NET\Aula3\obj\Debug\netcoreapp3.1\Aula3.csproj.CoreCompileInputs.cache
